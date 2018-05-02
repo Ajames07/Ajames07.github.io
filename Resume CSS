@@ -3,6 +3,7 @@ height: 100%;
 margin: 0;
 text-align: center;
 width: 100%;
+color: AntiqueWhite;
 }
 
 h1{font-family: Palatino,'Palatino-Lintype', serif;
@@ -10,6 +11,7 @@ Font-size: 32px;
 }
 
 h2{font-size: 32px;
+color: red;
 }
 
 p {
