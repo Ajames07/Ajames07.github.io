@@ -1,27 +1,30 @@
 body {
 height: 100%;
 margin: 0;
-text-align: center;
+text-align: left;
 width: 100%;
-color: AntiqueWhite;
 }
 
 h1{font-family: Palatino,'Palatino-Lintype', serif;
-Font-size: 64px;
+Font-size: 50px;
 color: red;
+  text-align: center;
 }
 
-h2{font-size: 32px;
-color: red;
-}
-
-h3{font-size: 32px;
+h2{
+  font-family: Palatino,'Palatino-Lintype', serif;
+Font-size: 24px;
   color: red;
-}
-p {
-color: black;
+  text-align: center;
 }
 
-li {
-  color: black;
+h3{
+  font-family: Palatino,'Palatino-Lintype', serif;
+Font-size: 24px;
+  color: red;
+  text-align: center;
+}
+
+p{
+  text-align: center;
 }
