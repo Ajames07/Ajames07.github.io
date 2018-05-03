@@ -3,33 +3,34 @@ height: 100%;
 margin: 0;
 text-align: center;
 width: 100%;
-border: 5;
+border: solid;
+background-color: White;
 }
 
 h1{font-family: Palatino,'Palatino-Lintype', serif;
 Font-size: 50px;
-color: red;
+color: blue;
   text-align: center;
 }
 
 h2{
   font-family: Palatino,'Palatino-Lintype', serif;
 Font-size: 24px;
-  color: red;
+  color: blue;
   text-align: center;
 }
 
 h3{
   font-family: Palatino,'Palatino-Lintype', serif;
 Font-size: 24px;
-  color: red;
+  color: blue;
   text-align: center;
 }
 
 h4{
   font-family: Palatino,'Palatino-Lintype', serif;
 Font-size: 24px;
-  color: gold;
+  color: blue;
   text-align: center;
 }
 
@@ -38,6 +39,12 @@ p{
 }
 
 li{
-  color: red;
-  text-align: center;
+  padding: 5px;
+  color: orange;
+  float: center;
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
 }
