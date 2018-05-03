@@ -1,8 +1,9 @@
 body {
 height: 100%;
 margin: 0;
-text-align: left;
+text-align: center;
 width: 100%;
+border: 5;
 }
 
 h1{font-family: Palatino,'Palatino-Lintype', serif;
@@ -25,6 +26,18 @@ Font-size: 24px;
   text-align: center;
 }
 
+h4{
+  font-family: Palatino,'Palatino-Lintype', serif;
+Font-size: 24px;
+  color: gold;
+  text-align: center;
+}
+
 p{
+  text-align: center;
+}
+
+li{
+  color: red;
   text-align: center;
 }
